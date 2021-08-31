@@ -6,11 +6,11 @@
 
 Clone repository with SSH:
 
-`git clone ""`
+`git clone git@github.com:cjbramble/cy-skeleton.git`
 
 Switch to root of project:
 
-`cd ""`
+`cd cy-skeleton`
 
 Install package:
 
