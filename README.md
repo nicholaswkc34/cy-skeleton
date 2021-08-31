@@ -6,11 +6,11 @@
 
 Clone repository with SSH:
 
-`git clone git@github.com:cjbramble/cy-skeleton.git`
+`git clone <replace>`
 
 Switch to root of project:
 
-`cd cy-skeleton`
+`cd <replace>`
 
 Install package:
 
@@ -24,7 +24,7 @@ Test install succeded:
 
 ## Configuration
 
-In `cypress.json` the `baseUrl` is currently set to "".
+In `cypress.json` the `baseUrl` is currently set to <replace>.
 
 To override or use additional configurations create a separate `cypress.env.json`.
 
@@ -32,8 +32,7 @@ Example:
 
 ```json
 {
-    "": "",
-    "": ""
+    "baseUrl": "<replace>"
 }
 ```
 
